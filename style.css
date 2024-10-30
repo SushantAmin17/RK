@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .rkbakediaries-text {
+    font-weight: 600;
+    color: #4a221a;
+  }
+
+  .rkinnotech-text {
+    font-weight: 600;
+    color: #0D71AE;
+  }
